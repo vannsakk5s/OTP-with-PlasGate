@@ -1,13 +1,13 @@
 # OTP-with-PlasGate
 
-## 1. Setup Project
+### 1. Setup Project
 
 Install dependencies:
 
-npm install
+```npm install```
 
 
-2. Configure Environment Variables
+### 2. Configure Environment Variables
 Create a .env file in the backend folder:
 
 Copy the variables from .env.example to .env and fill in your actual values.
@@ -20,14 +20,14 @@ PLASGATE_SENDER=YourSenderName
 PORT=3000
 
 
-3. Run the Server
+### 3. Run the Server
 Start the development server:
 
 npm run dev
 
 The server will start on http://localhost:3000.
 
-4. Testing
+### 4. Testing
 
 Request OTP:
 
