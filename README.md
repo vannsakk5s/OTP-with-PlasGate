@@ -20,6 +20,7 @@ Copy the variables from .env.example to .env and fill in your actual values.
 PLASGATE_PRIVATE_KEY=your_plasgate_private_key
 PLASGATE_SECRET=your_plasgate_secret
 PLASGATE_SENDER=YourSenderName
+REDIS_URL=redis
 PORT=3000
 ```
 
