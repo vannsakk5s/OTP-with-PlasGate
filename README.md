@@ -7,7 +7,7 @@ Install dependencies:
 ```text 
 npm install
 ```
-
+Website for API Key : https://cloud.plasgate.com
 
 ### 2. Configure Environment Variables
 Create a .env file in the backend folder:
@@ -31,7 +31,7 @@ Start the development server:
 npm run dev
 ```
 
-The server will start on `http://localhost:3000`.
+The server will start on http://localhost:3000
 
 ### 4. Testing
 
